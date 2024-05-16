@@ -21,3 +21,9 @@ Embed a video in Quarto: {{< video https://www.youtube.com/embed/wo9vZccmqwc >}}
 -   ~~En nog een!~~
 
 Je vindt meer informatie op de website van de [Universiteitsbibliotheek Utrecht](https://www.uu.nl/universiteitsbibliotheek)
+
+1.  Nummer 1!
+
+2.  Nummer 2!
+
+3.  En dan is dit nummer 3!
