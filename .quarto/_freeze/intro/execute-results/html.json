@@ -1,8 +1,8 @@
 {
-  "hash": "b01d298409f2fb6a2e5bc4899b0aada0",
+  "hash": "9794e160329842cc2d42fa676e357c83",
   "result": {
     "engine": "knitr",
-    "markdown": "# Introduction\n\nThis is a book created from markdown and executable code.\n\nSee @knuth84 for additional discussion of literate programming.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\nKijk! Een **plaatje** so prettyyyyyyy![UB afbeelding](images/Welkom%20terug%20bericht%20Instagram.png)\n\nEmbed an image: ![penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)\n\nEmbed a video in Quarto: {{< video https://www.youtube.com/embed/wo9vZccmqwc >}}\n\n*De tekst kan ook schuin*\n\n-   Een bullet!\n\n-   ~~En nog een!~~\n\nJe vindt meer informatie op de website van de [Universiteitsbibliotheek Utrecht](https://www.uu.nl/universiteitsbibliotheek)\n\n1.  Nummer 1!\n\n2.  Nummer 2!\n\n3.  En dan is dit nummer 3!\n",
+    "markdown": "# Introduction\n\nThis is a book created from markdown and executable code.\n\nSee @knuth84 for additional discussion of literate programming.\n\nEn het is een prachtig boek!\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\nKijk! Een **plaatje** so prettyyyyyyy![UB afbeelding](images/Welkom%20terug%20bericht%20Instagram.png)\n\nEmbed an image: ![penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)\n\nEmbed a video in Quarto: {{< video https://www.youtube.com/embed/wo9vZccmqwc >}}\n\n*De tekst kan ook schuin*\n\n-   Een bullet!\n\n-   ~~En nog een!~~\n\nJe vindt meer informatie op de website van de [Universiteitsbibliotheek Utrecht](https://www.uu.nl/universiteitsbibliotheek)\n\n1.  Nummer 1!\n\n2.  Nummer 2!\n\n3.  En dan is dit nummer 3!\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
