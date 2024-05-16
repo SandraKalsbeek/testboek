@@ -1,0 +1,23 @@
+# Introduction
+
+This is a book created from markdown and executable code.
+
+See @knuth84 for additional discussion of literate programming.
+
+```{r}
+1 + 1
+```
+
+Kijk! Een **plaatje** so prettyyyyyyy![UB afbeelding](images/Welkom%20terug%20bericht%20Instagram.png)
+
+Embed an image: ![penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
+
+Embed a video in Quarto: {{< video https://www.youtube.com/embed/wo9vZccmqwc >}}
+
+*De tekst kan ook schuin*
+
+-   Een bullet!
+
+-   ~~En nog een!~~
+
+Je vindt meer informatie op de website van de [Universiteitsbibliotheek Utrecht](https://www.uu.nl/universiteitsbibliotheek)
